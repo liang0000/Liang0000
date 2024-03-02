@@ -1,5 +1,5 @@
-## 👋 Hey everyone, I'm Liang0 👋
+## 👋 Liang0 です👋
 
-- 🧑🏼‍💻
+- iOS Developer🧑🏼‍💻
 
 
